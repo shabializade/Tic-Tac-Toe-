@@ -1,5 +1,4 @@
-# Tic-Tac-Toe-
-Tic-Tac-Toe game in C with dynamic board size, FIFO move logic, and game logging
+
 # Tic-Tac-Toe Game in C
 
 Console-based Tic-Tac-Toe game with dynamic board size and advanced features.
